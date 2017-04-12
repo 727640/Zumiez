@@ -17,7 +17,7 @@ h1{
  }
 
 html { 
-  background: url(winding.jpeg) no-repeat center center fixed; 
+  background-image: url("winding.jpeg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
